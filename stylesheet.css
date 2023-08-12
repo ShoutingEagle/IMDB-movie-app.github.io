@@ -222,7 +222,59 @@ body{
 
 
 @media screen and (max-width : 1208px ) {
+    .api_key, .search{
+        width: 1000px;
+
+    }
     
 }
+
+
+@media screen and (max-width : 1012px ) {
+    .api_key, .search{
+        width: 700px;
+
+    }
+    
+}
+
+
+@media screen and (max-width : 710px ) {
+    .api_key, .search{
+        width: 350px;
+
+    }
+
+    #heading{
+        font-size: 32px;
+        font-weight: 600; 
+    }
+    
+}
+
+
+@media screen and (max-width : 592px ) {
+    
+    #heading{
+        font-size: 32px;
+        font-weight: 600; 
+    }
+}
+
+
+
+@media screen and (max-width : 364px ) {
+    
+    #heading{
+        font-size: 20px;
+        font-weight: 500; 
+    }
+
+    .api_key, .search{
+        width: 284px;
+
+    }
+}
+
 
 
