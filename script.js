@@ -76,3 +76,6 @@ function renderData(responseData){
 }
 
 
+fetchData('ted','b94420c6');
+
+
