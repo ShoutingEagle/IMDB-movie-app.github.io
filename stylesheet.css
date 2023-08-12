@@ -18,7 +18,9 @@ body{
 
 .container{
     max-width: 1400px;
+    height: 100vh;
     background-color: #242A32;
+    
     /* border: 1px solid slateblue; */
     display: flex;
     justify-content: center ;
